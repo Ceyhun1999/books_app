@@ -1,5 +1,8 @@
 # books_app
 
+> [!NOTE]
+> **This is a study project.** It was built while learning SwiftUI and is not a production app: all data is mock data and there is no backend, cart or checkout.
+
 A small SwiftUI bookstore app: special offers, top books, vendors, authors, and detail screens for books and authors. All data is mock data; images are loaded from the web.
 
 ## Screenshots
